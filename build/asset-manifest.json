@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/startr-codebase/static/css/main.7fd9c669.css",
-    "main.js": "/startr-codebase/static/js/main.5b258bf8.js",
-    "static/js/453.e309cdeb.chunk.js": "/startr-codebase/static/js/453.e309cdeb.chunk.js",
-    "static/media/aazar.jpg": "/startr-codebase/static/media/aazar.d2938a5644e88f3136a1.jpg",
-    "static/media/shahbaz.jpg": "/startr-codebase/static/media/shahbaz.d7ab9d6aa275b9fcc390.jpg",
-    "index.html": "/startr-codebase/index.html",
-    "main.7fd9c669.css.map": "/startr-codebase/static/css/main.7fd9c669.css.map",
-    "main.5b258bf8.js.map": "/startr-codebase/static/js/main.5b258bf8.js.map",
-    "453.e309cdeb.chunk.js.map": "/startr-codebase/static/js/453.e309cdeb.chunk.js.map"
+    "main.css": "/static/css/main.7fd9c669.css",
+    "main.js": "/static/js/main.a42fc56f.js",
+    "static/js/453.e309cdeb.chunk.js": "/static/js/453.e309cdeb.chunk.js",
+    "static/media/aazar.jpg": "/static/media/aazar.d2938a5644e88f3136a1.jpg",
+    "static/media/shahbaz.jpg": "/static/media/shahbaz.d7ab9d6aa275b9fcc390.jpg",
+    "index.html": "/index.html",
+    "main.7fd9c669.css.map": "/static/css/main.7fd9c669.css.map",
+    "main.a42fc56f.js.map": "/static/js/main.a42fc56f.js.map",
+    "453.e309cdeb.chunk.js.map": "/static/js/453.e309cdeb.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7fd9c669.css",
-    "static/js/main.5b258bf8.js"
+    "static/js/main.a42fc56f.js"
   ]
 }
