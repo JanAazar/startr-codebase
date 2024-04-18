@@ -1,6 +1,6 @@
 {
   "name": "startr",
-  "homepage": "https://janaazar.github.io/startr-codebase",
+  "homepage": "https://janaazar.github.io/startr-codebase/src",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
